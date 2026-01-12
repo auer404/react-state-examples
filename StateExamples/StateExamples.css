@@ -1,0 +1,13 @@
+.state-example {
+    margin-top:1rem;
+    font-size:0.85em;
+    font-family:sans-serif;
+}
+
+.state-example.good {
+    color:green;
+}
+
+.state-example.bad {
+    color:red;
+}
